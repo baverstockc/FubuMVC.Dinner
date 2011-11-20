@@ -8,7 +8,7 @@ What is FubuMVC.Dinner?
 --
 FubuMVC has a thriving community that is not only dedicated to the continued development of the framework but also devotes it's time to support and documentation; this application is an effort to demonstrate how you might develop a web application "the Fubu way".
 
-The concept for this demo application is an intentional mirror of the [open source ASP.NET project](http://nerddinner.codeplex.com/) [nerddinner](http://www.nerddinner.com) created to aid adoption of MS MVC. Our intention is to show how implementation of the same concept might differ between the two frameworks, although this reflects just one of the many possible FubuMVC implementations.
+The concept for this demo application is an intentional mirror of the [open source ASP.NET project](http://nerddinner.codeplex.com/) ["nerddinner"](http://www.nerddinner.com) created to aid adoption of MS MVC. My intention is to show how implementation of the same concept might differ between the two frameworks, although it is important to note this reflects just one of the many possible FubuMVC implementations.
 
 It is my intention this repository will build against the latest release of FubuMVC to ensure it is current and a working source of reference.
 
